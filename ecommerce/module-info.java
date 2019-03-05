@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author VEDA
+ *
+ */
+module ecommerce {
+}
